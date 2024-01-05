@@ -6,11 +6,17 @@ I´m an undergraduated student in physics at the University of Buenos Aires (UBA
 ## Education
 
 - I am currently finishing a master's degree in physics at the University of Buenos Aires, in Argentina
+
+
 - I have graduated from a technical high school, with orientation in electrical instalations.
 
 ## Languages
 -English B2 (certified by University of Buenos Aires)
+
+
 -Portuguese B1 (currently finishing the UBA's course)
+
+
 -Spanish (mother tonge)
 
 
