@@ -14,7 +14,7 @@ I´m an undergraduated student in physics at the University of Buenos Aires (UBA
 -English B2 (certified by University of Buenos Aires)
 
 
--Portuguese B1 (currently finishing the UBA's course)
+-Portuguese A1 (currently finishing the UBA's course)
 
 
 -Spanish (mother tonge)
